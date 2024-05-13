@@ -1,4 +1,5 @@
 E-Commerce_API (In progress)
+
 Using C# , Asp.Net Core 6 Api.
 
 SQL Server.
@@ -14,20 +15,35 @@ Integration Payment.
 It consists of many activities such as
 
 Categories operations.
+
 Products operations.
+
 Cart operations.
+
 Payment.
+
 Orders.
+
+
 Admin
 
 Add Roles and assign roles for users .
+
 Add , delete and update Categories and products .
+
 Manage Orders .
+
+
 User
 
 login , Register , Update Profile .
+
 Search about product .
+
 Add , delete , update cartItems .
+
 Add , delete , FavoriteItems.
+
 Payment using visa and masterCard .
+
 Make orders and manage its.
