@@ -1,0 +1,11 @@
+D:\ahmed\web development\WebAPI\E-Commerce.Solution\E-Commerce.Services\bin\Debug\net6.0\E-Commerce.Services.deps.json
+D:\ahmed\web development\WebAPI\E-Commerce.Solution\E-Commerce.Services\bin\Debug\net6.0\E-Commerce.Services.dll
+D:\ahmed\web development\WebAPI\E-Commerce.Solution\E-Commerce.Services\bin\Debug\net6.0\E-Commerce.Services.pdb
+D:\ahmed\web development\WebAPI\E-Commerce.Solution\E-Commerce.Services\obj\Debug\net6.0\E-Commerce.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\ahmed\web development\WebAPI\E-Commerce.Solution\E-Commerce.Services\obj\Debug\net6.0\E-Commerce.Services.AssemblyInfoInputs.cache
+D:\ahmed\web development\WebAPI\E-Commerce.Solution\E-Commerce.Services\obj\Debug\net6.0\E-Commerce.Services.AssemblyInfo.cs
+D:\ahmed\web development\WebAPI\E-Commerce.Solution\E-Commerce.Services\obj\Debug\net6.0\E-Commerce.Services.csproj.CoreCompileInputs.cache
+D:\ahmed\web development\WebAPI\E-Commerce.Solution\E-Commerce.Services\obj\Debug\net6.0\E-Commerce.Services.dll
+D:\ahmed\web development\WebAPI\E-Commerce.Solution\E-Commerce.Services\obj\Debug\net6.0\refint\E-Commerce.Services.dll
+D:\ahmed\web development\WebAPI\E-Commerce.Solution\E-Commerce.Services\obj\Debug\net6.0\E-Commerce.Services.pdb
+D:\ahmed\web development\WebAPI\E-Commerce.Solution\E-Commerce.Services\obj\Debug\net6.0\ref\E-Commerce.Services.dll

@@ -1,0 +1,20 @@
+﻿using AutoMapper;
+using E_Commerce.API.DTOs;
+using E_Commerce.Core.Entities;
+
+namespace E_Commerce.API.Helpers
+{
+    public class MappingProfiles : Profile
+    {
+        public MappingProfiles()
+        {
+            CreateMap<Product, ProductToReturnDTO>()
+                      .ForMember(d => d.ProductType, o => o.MapFrom(s => s.ProductType.Name))
+                      .ForMember(d => d.ProductBrand, o => o.MapFrom(s => s.ProductBrand.Name))
+                      .ForMember(d => d.PictureUrl, o => o.MapFrom<ProductPictureUrlResolver>());
+
+            CreateMap<CustomerBasketDTO, CustomerBasket>();
+            CreateMap<BasketItemDTO, BasketItem>();
+        }
+    }
+}

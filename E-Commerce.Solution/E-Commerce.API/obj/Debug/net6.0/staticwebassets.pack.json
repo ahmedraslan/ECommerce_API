@@ -1,0 +1,93 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\ahmed\\web development\\WebAPI\\E-Commerce.Solution\\E-Commerce.API\\wwwroot\\Images\\Products\\CheesyVegetableLasagna.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\CheesyVegetableLasagna.png"
+    },
+    {
+      "Id": "D:\\ahmed\\web development\\WebAPI\\E-Commerce.Solution\\E-Commerce.API\\wwwroot\\Images\\Products\\ChickenMarsala.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\ChickenMarsala.png"
+    },
+    {
+      "Id": "D:\\ahmed\\web development\\WebAPI\\E-Commerce.Solution\\E-Commerce.API\\wwwroot\\Images\\Products\\ChickenTeriyakiNoodles.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\ChickenTeriyakiNoodles.png"
+    },
+    {
+      "Id": "D:\\ahmed\\web development\\WebAPI\\E-Commerce.Solution\\E-Commerce.API\\wwwroot\\Images\\Products\\ChickenTikkaMasala.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\ChickenTikkaMasala.jpg"
+    },
+    {
+      "Id": "D:\\ahmed\\web development\\WebAPI\\E-Commerce.Solution\\E-Commerce.API\\wwwroot\\Images\\Products\\Congee.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\Congee.png"
+    },
+    {
+      "Id": "D:\\ahmed\\web development\\WebAPI\\E-Commerce.Solution\\E-Commerce.API\\wwwroot\\Images\\Products\\CreamyGochujangTortellini.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\CreamyGochujangTortellini.png"
+    },
+    {
+      "Id": "D:\\ahmed\\web development\\WebAPI\\E-Commerce.Solution\\E-Commerce.API\\wwwroot\\Images\\Products\\CrispyVegetablePakoras.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\CrispyVegetablePakoras.png"
+    },
+    {
+      "Id": "D:\\ahmed\\web development\\WebAPI\\E-Commerce.Solution\\E-Commerce.API\\wwwroot\\Images\\Products\\HaluskiNoodles.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\HaluskiNoodles.png"
+    },
+    {
+      "Id": "D:\\ahmed\\web development\\WebAPI\\E-Commerce.Solution\\E-Commerce.API\\wwwroot\\Images\\Products\\HeartyVegetableLasagna.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\HeartyVegetableLasagna.png"
+    },
+    {
+      "Id": "D:\\ahmed\\web development\\WebAPI\\E-Commerce.Solution\\E-Commerce.API\\wwwroot\\Images\\Products\\ItalianChickenMarinade.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\ItalianChickenMarinade.png"
+    },
+    {
+      "Id": "D:\\ahmed\\web development\\WebAPI\\E-Commerce.Solution\\E-Commerce.API\\wwwroot\\Images\\Products\\ItalianWeddingSoup.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\ItalianWeddingSoup.png"
+    },
+    {
+      "Id": "D:\\ahmed\\web development\\WebAPI\\E-Commerce.Solution\\E-Commerce.API\\wwwroot\\Images\\Products\\Kulfi.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\Kulfi.png"
+    },
+    {
+      "Id": "D:\\ahmed\\web development\\WebAPI\\E-Commerce.Solution\\E-Commerce.API\\wwwroot\\Images\\Products\\PastaSalad.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\PastaSalad.png"
+    },
+    {
+      "Id": "D:\\ahmed\\web development\\WebAPI\\E-Commerce.Solution\\E-Commerce.API\\wwwroot\\Images\\Products\\PepperPasta.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\PepperPasta.png"
+    },
+    {
+      "Id": "D:\\ahmed\\web development\\WebAPI\\E-Commerce.Solution\\E-Commerce.API\\wwwroot\\Images\\Products\\ShrimpEggFooYoung.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\ShrimpEggFooYoung.png"
+    },
+    {
+      "Id": "D:\\ahmed\\web development\\WebAPI\\E-Commerce.Solution\\E-Commerce.API\\wwwroot\\Images\\Products\\TandooriChicken.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\TandooriChicken.png"
+    },
+    {
+      "Id": "D:\\ahmed\\web development\\WebAPI\\E-Commerce.Solution\\E-Commerce.API\\wwwroot\\Images\\Products\\VegetarianKorma.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\VegetarianKorma.png"
+    },
+    {
+      "Id": "D:\\ahmed\\web development\\WebAPI\\E-Commerce.Solution\\E-Commerce.API\\wwwroot\\Images\\Products\\VegetarianRefriedBeans.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\VegetarianRefriedBeans.png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.E-Commerce.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.E-Commerce.API.props",
+      "PackagePath": "build\\E-Commerce.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.E-Commerce.API.props",
+      "PackagePath": "buildMultiTargeting\\E-Commerce.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.E-Commerce.API.props",
+      "PackagePath": "buildTransitive\\E-Commerce.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
